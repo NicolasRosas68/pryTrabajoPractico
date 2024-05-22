@@ -38,7 +38,7 @@
             // 
             // btnQuenaken
             // 
-            this.btnQuenaken.Location = new System.Drawing.Point(43, 40);
+            this.btnQuenaken.Location = new System.Drawing.Point(43, 48);
             this.btnQuenaken.Name = "btnQuenaken";
             this.btnQuenaken.Size = new System.Drawing.Size(103, 24);
             this.btnQuenaken.TabIndex = 0;
